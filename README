@@ -1,0 +1,20 @@
+# EduLens
+
+AI-powered student performance prediction system.
+
+## Tech Stack
+- FastAPI (Backend)
+- React + Vite + Tailwind (Frontend)
+- ML Model (SHAP explainability)
+
+## Features
+- Student risk prediction
+- SHAP explanation
+- AI chat assistant
+
+## Run Locally
+Backend:
+uvicorn app.main:app --reload
+
+Frontend:
+npm run dev
