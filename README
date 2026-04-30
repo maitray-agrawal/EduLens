@@ -1,22 +1,24 @@
-# EduLens
-## Preview
+# EduLens – AI Student Analytics Platform
 
-![Dashboard](assets/dashboard.png)
-AI-powered student performance prediction system.
-
-## Tech Stack
-- FastAPI (Backend)
-- React + Vite + Tailwind (Frontend)
-- ML Model (SHAP explainability)
+EduLens is a full-stack AI-powered dashboard that helps educators identify at-risk students using machine learning and AI explanations.
 
 ## Features
-- Student risk prediction
-- SHAP explanation
-- AI chat assistant
+- Student data management API
+- ML-based risk prediction
+- AI assistant for insights (LLM)
+- Interactive dashboard (React)
 
-## Run Locally
-Backend:
-uvicorn app.main:app --reload
+## Tech Stack
+- FastAPI, MongoDB, Scikit-learn
+- React (Vite)
+- Groq LLM
 
-Frontend:
-npm run dev
+## Live Demo
+Frontend: <your-link>
+Backend: <your-link>
+
+## Screenshots
+(Add images)
+
+## Author
+Maitray Agrawal
